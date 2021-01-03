@@ -1,0 +1,32 @@
+/***********Create Notes************/
+
+header h1{
+	font-size: 5em;
+	font-weight: bolder;
+
+}
+
+header{
+	background-color: white;
+	opacity: .8;
+}
+
+.form-container{
+	margin-top: 30px;
+
+
+}
+
+.form-group{
+	background-color: #3498db;
+	opacity: .8;
+}
+
+#cancel-btn{
+ background-color: #e74c3c;
+ border-color: red;
+}
+
+#cancel-btn:hover{
+background-color: #c0392b;
+}
