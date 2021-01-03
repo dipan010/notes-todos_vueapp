@@ -17,20 +17,21 @@ export default {
 </script>
 
 
-<style lang="stylus" scoped>
-li
-  display flex
-  margin 5px 0
-
-  span
-    flex 1
-  
-  span.icon
-    border 1px  
-    color white
-    text-align right
-    font-size 0.8rem
-    padding 2px
-    cursor pointer
+<style>
+  li{
+    display: flex;
+    margin: 5px 0;
+  }
+  span{
+    flex: 1
+  }
+  span.icon{
+    border: 1px;
+    color: white;
+    text-align: right;
+    font-size: 0.8rem;
+    padding: 2px;
+    cursor: pointer
+  }
 
 </style>
